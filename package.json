@@ -1,12 +1,16 @@
 {
-  "name": "messenger-bot",
-  "version": "1.0.0",
+  "name": "mr-shad-messenger-bot",
+  "version": "2.0.0",
+  "description": "Professional Messenger Bot Dashboard by MR  shad",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.21.2",
-    "axios": "^1.7.9"
+    "express": "^4.18.2",
+    "axios": "^1.6.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
